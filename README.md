@@ -1,2 +1,2 @@
 # main
-Main private repositor
+Main private repository
